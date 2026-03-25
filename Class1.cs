@@ -10,6 +10,7 @@ namespace Vjezba_1
     internal class Class1
     {
         static void New(string[] args)
+            #debeo sam
         {   
         }
     }
