@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ConsoleApp1
 {
@@ -8,6 +9,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world!!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novo2");
         }
     }
 }
